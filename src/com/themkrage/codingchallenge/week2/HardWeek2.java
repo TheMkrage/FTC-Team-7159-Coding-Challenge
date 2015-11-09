@@ -1,3 +1,4 @@
+package com.themkrage.codingchallenge.week2;
 
 public class HardWeek2 {
 	
